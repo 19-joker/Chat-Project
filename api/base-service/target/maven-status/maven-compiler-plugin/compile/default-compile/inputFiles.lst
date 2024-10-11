@@ -1,0 +1,6 @@
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\api\feign\FileMicroServiceFeign.java
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\api\aspect\ServiceLogAspect.java
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\rabbitmq\RabbitMQTestConfig.java
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\api\feign\UserInfoMicroServiceFeign.java
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\controller\interceptor\SMSInterceptor.java
+D:\NewProjectT\mksz-853 SpringCloud+Netty集群实战千万级 IM系统\课程源码\wechat-dev-project\后端源码\仿微信集群(第十二章完)\wechat-dev\api\base-service\src\main\java\org\itzixi\tasks\SMSTask.java

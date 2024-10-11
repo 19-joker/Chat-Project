@@ -1,0 +1,11 @@
+org\itzixi\controller\BaiduSpeechController.class
+org\itzixi\utils\VideoUtil.class
+org\itzixi\utils\BaiduAISDK.class
+org\itzixi\Application.class
+org\itzixi\MinIOConfig.class
+org\itzixi\MinIOUtils.class
+org\itzixi\controller\FileController.class
+org\itzixi\StaticResourceConfig.class
+org\itzixi\utils\JcodecVideoUtil.class
+org\itzixi\controller\HelloController.class
+org\itzixi\rabbitmq\RabbitMQConsumer.class

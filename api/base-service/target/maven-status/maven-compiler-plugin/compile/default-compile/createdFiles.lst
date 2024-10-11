@@ -1,0 +1,6 @@
+org\itzixi\api\feign\FileMicroServiceFeign.class
+org\itzixi\controller\interceptor\SMSInterceptor.class
+org\itzixi\rabbitmq\RabbitMQTestConfig.class
+org\itzixi\tasks\SMSTask.class
+org\itzixi\api\aspect\ServiceLogAspect.class
+org\itzixi\api\feign\UserInfoMicroServiceFeign.class
